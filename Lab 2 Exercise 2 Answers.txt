@@ -1,0 +1,4 @@
+1.The more hidden nodes in a neural network, the better it can learn complex patterns. But too many nodes can lead to overfitting, where it learns the training data too well and struggles with new data.
+ More hidden nodes = better learning, but risk of overfitting.
+
+2.Increasing hidden nodes improves accuracy up to a point, then plateaus or declines( slight fluctuations ).
